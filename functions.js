@@ -151,7 +151,7 @@ console.log(cutString(str))
  Write a function called "giveMeRandom" which accepts a number n and returns an array containing n random numbers between 0 and 10.
 */
 
-function giveMeRandom() {}
+let number = function giveMeRandom() {}
 
 /* WHEN YOU ARE FINISHED
  Commit and push the code to your personal GitHub repository; then post the link of your commit on the Homework section of today's Eduflow.
